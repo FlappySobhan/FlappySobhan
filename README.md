@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Hi, I’m Sobhan
+<div align="left">
+ <br>
+ 👀 &nbsp;I’m interested in 🎮 + 🧃 + 💻
 
-<!--
-**FlappySobhan/FlappySobhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🌱 &nbsp;I’m currently learning **🐧linux  and 🤠Django**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 &nbsp;**sobhanimani81@gmail.com**
+</div>
+
+ <br>
+
+ # &nbsp;Tech Stack:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<br>
