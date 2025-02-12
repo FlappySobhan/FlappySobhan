@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Greetings, I’m Sobhan
+<div align="left">
+ <br>
+ 👀 &nbsp;I have a keen interest in Gaming, Electronics and Circuits, IoT, and Photography.
 
-<!--
-**FlappySobhan/FlappySobhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🌱 &nbsp;I am currently studying for a Bachelor's degree in Electrical Engineering and delving into embedded systems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 &nbsp;You can reach me at: **sobhanimani81@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sobhan-imani)
+</div>
+
+ <br>
+
+ ## &nbsp;Technical Skills:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=manjaro)&nbsp;
+![QT](https://img.shields.io/badge/-QT-05122A?style=flat&logo=qt)&nbsp;
+<br>
